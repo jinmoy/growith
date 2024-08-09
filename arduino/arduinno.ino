@@ -2,7 +2,7 @@
 #include <OneWire.h>
 #include <DallasTemperature.h>
 #include <Servo.h>
-#include <WiFi.h>
+#include <WiFiS3.h>
 #include <SoftwareSerial.h>
 
 #define ONE_WIRE_BUS 2
