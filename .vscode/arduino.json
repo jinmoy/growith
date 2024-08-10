@@ -1,4 +1,7 @@
 {
     "board": "arduino:renesas_uno:unor4wifi",
-    "sketch": "arduino\\arduinno.ino"
+    "sketch": "arduino/arduino.ino",
+    "configuration": "flash_mode=dio,UploadSpeed=921600,DebugLevel=none",
+    "port": "COM10",
+    "output": "build"
 }

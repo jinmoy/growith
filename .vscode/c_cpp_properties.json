@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/yjm33/OneDrive/문서/Arduino/libraries",
+                "C:/Users/yjm33/.platformio/packages/framework-arduinorenesas-uno/libraries"
+                
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "Arduino IDE",
+            "compilerPath": "C:/Arduino IDE/Arduino IDE.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++11"
+        }
+    ],
+    "version": 4
+}
