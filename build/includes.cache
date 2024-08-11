@@ -1,0 +1,142 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\yjm33\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.2.0\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\yjm33\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.2.0\\variants\\UNOWIFIR4"
+  },
+  {
+    "Sourcefile": "C:\\Microsoft VS Code\\growith\\build\\sketch\\arduino.ino.cpp",
+    "Include": "DallasTemperature.h",
+    "Includepath": "C:\\Users\\yjm33\\OneDrive\\문서\\Arduino\\libraries\\DallasTemperature"
+  },
+  {
+    "Sourcefile": "C:\\Microsoft VS Code\\growith\\build\\sketch\\arduino.ino.cpp",
+    "Include": "OneWire.h",
+    "Includepath": "C:\\Users\\yjm33\\OneDrive\\문서\\Arduino\\libraries\\OneWire"
+  },
+  {
+    "Sourcefile": "C:\\Microsoft VS Code\\growith\\build\\sketch\\arduino.ino.cpp",
+    "Include": "Servo.h",
+    "Includepath": "C:\\Users\\yjm33\\OneDrive\\문서\\Arduino\\libraries\\Servo\\src"
+  },
+  {
+    "Sourcefile": "C:\\Microsoft VS Code\\growith\\build\\sketch\\arduino.ino.cpp",
+    "Include": "WiFiS3.h",
+    "Includepath": "C:\\Users\\yjm33\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.2.0\\libraries\\WiFiS3\\src"
+  },
+  {
+    "Sourcefile": "C:\\Microsoft VS Code\\growith\\build\\sketch\\arduino.ino.cpp",
+    "Include": "SoftwareSerial.h",
+    "Includepath": "C:\\Users\\yjm33\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.2.0\\libraries\\SoftwareSerial\\src"
+  },
+  {
+    "Sourcefile": "C:\\Microsoft VS Code\\growith\\build\\sketch\\arduino.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\OneDrive\\문서\\Arduino\\libraries\\DallasTemperature\\DallasTemperature.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\OneDrive\\문서\\Arduino\\libraries\\OneWire\\OneWire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\OneDrive\\문서\\Arduino\\libraries\\Servo\\src\\avr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\OneDrive\\문서\\Arduino\\libraries\\Servo\\src\\mbed\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\OneDrive\\문서\\Arduino\\libraries\\Servo\\src\\megaavr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\OneDrive\\문서\\Arduino\\libraries\\Servo\\src\\nrf52\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\OneDrive\\문서\\Arduino\\libraries\\Servo\\src\\renesas\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\OneDrive\\문서\\Arduino\\libraries\\Servo\\src\\sam\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\OneDrive\\문서\\Arduino\\libraries\\Servo\\src\\samd\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\OneDrive\\문서\\Arduino\\libraries\\Servo\\src\\stm32f4\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\OneDrive\\문서\\Arduino\\libraries\\Servo\\src\\xmc\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.2.0\\libraries\\WiFiS3\\src\\Modem.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.2.0\\libraries\\WiFiS3\\src\\StringHelpers.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.2.0\\libraries\\WiFiS3\\src\\WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.2.0\\libraries\\WiFiS3\\src\\WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.2.0\\libraries\\WiFiS3\\src\\WiFiFileSystem.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.2.0\\libraries\\WiFiS3\\src\\WiFiSSLClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.2.0\\libraries\\WiFiS3\\src\\WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.2.0\\libraries\\WiFiS3\\src\\WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\yjm33\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.2.0\\libraries\\SoftwareSerial\\src\\SoftwareSerial.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

@@ -1,6 +1,6 @@
+#include <DallasTemperature.h>
 #include <Arduino.h>
 #include <OneWire.h>
-#include <DallasTemperature.h>
 #include <Servo.h>
 #include <WiFiS3.h>
 #include <SoftwareSerial.h>
