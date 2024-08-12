@@ -26,11 +26,6 @@ SoftwareSerial BluetoothSerial(2, 3); // RX, TX 핀 설정
 float readPH();
 void sendDataToServer(float temp, float do_value, float ph);
 
-#line 28 "C:\\Microsoft VS Code\\growith\\arduino\\arduino.ino"
-void setup();
-#line 50 "C:\\Microsoft VS Code\\growith\\arduino\\arduino.ino"
-void loop();
-#line 28 "C:\\Microsoft VS Code\\growith\\arduino\\arduino.ino"
 void setup() {
   Serial.begin(9600);
   BluetoothSerial.begin(9600);
@@ -126,7 +121,9 @@ float readPH() {
   return pHValue;
 }
 #line 1 "C:\\Microsoft VS Code\\growith\\arduino\\test.ino"
+#include <Arduino.h>
 #include <Servo.h>
+
 
 #define ESC_PIN1 10
 #define ESC_PIN2 11
